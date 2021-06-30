@@ -7,6 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Project Description
+
+Election season is fast approaching and 9japoll can be the number 1 stop websites where everyone can come and check the profile of those politicians contesting for executive offices or any key ranking posts in the country. This repo is meant to contain the backend code for the 9jaPoll project by team pjt-63.
+
+## Figma Link
+
+https://www.figma.com/file/cdCMaWkevqHJBxRwEVnjbK/Website-Design?node-id=35%3A2
+
+https://www.figma.com/files/project/32509717/9ja-Poll?fuid=955128788300862948
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
