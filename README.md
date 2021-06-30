@@ -17,6 +17,10 @@ https://www.figma.com/file/cdCMaWkevqHJBxRwEVnjbK/Website-Design?node-id=35%3A2
 
 https://www.figma.com/files/project/32509717/9ja-Poll?fuid=955128788300862948
 
+## Project documentation / Project Outline
+
+https://docs.google.com/spreadsheets/d/1pQUVwPvJ0tGgZ82vIIfS4DtxeI8BWSjCEoP_P7r0GSc/edit?usp=sharing
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
