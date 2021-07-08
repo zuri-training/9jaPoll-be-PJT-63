@@ -36,7 +36,11 @@
         <input type="text" name="facebook" value="" placeholder="Facebook">
         <input type="text" name="twitter" value="" placeholder="Twitter">
         <input type="text" name="instagram" value="" placeholder="Instagram">
-        <input type="file" id="image" name="profile_image" required="required">
+        <input type="text" name="post_type" value="" placeholder="Post type">
+        <input type="file" id="profile_image" name="profile_image" required="required">
+        {{-- <input type="file" id="party_logo" name="party_logo" required="required"> --}}
+        <br/><br/>
+        <textarea name="text_content" class="form-control" cols="50" rows="30" required="required"></textarea>
 
         <button type="submit" class="btn btn-primary">Add Profile</button>
     </form>
