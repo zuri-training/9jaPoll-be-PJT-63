@@ -40,7 +40,9 @@ class PostCandController extends Controller
             'post'=>'required',
             'degrees_obtained'=>'required',
             'schools_attended'=>'required',
-            'party'=>'required'
+            'party'=>'required',
+            'post_type'=>'required',
+            'text_content'=>'required'
         ]);
 
         
@@ -62,7 +64,8 @@ class PostCandController extends Controller
         $post->facebook = $request->facebook;
         $post->twitter = $request->twitter;
         $post->instagram = $request->instagram;
-        
+        $post->post_type = $request->post_type;
+        $post->text_content = $request->text_content;
        
         $post->profile_image = $image;
         $post->save();

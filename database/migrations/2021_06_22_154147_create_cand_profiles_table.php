@@ -33,7 +33,9 @@ class CreateCandProfilesTable extends Migration
             $table->string('facebook');
             $table->string('twitter');
             $table->string('instagram');
+            $table->string('post_type');
             $table->string('profile_image');
+            $table->text('text_content');
             $table->timestamps();
         });
     }
