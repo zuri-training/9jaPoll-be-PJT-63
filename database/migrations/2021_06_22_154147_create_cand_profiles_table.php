@@ -26,7 +26,7 @@ class CreateCandProfilesTable extends Migration
             $table->string('degrees_obtained');
             $table->string('honours');
             $table->string('schools_attended');
-            $table->string('awards');
+            $table->text('awards');
             $table->string('party');
             $table->string('wiki_link');
             $table->string('other_links');
